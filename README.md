@@ -10,7 +10,8 @@ public class Employee {
 		// TODO Auto-generated constructor stub
 	}
 	
-	public Employee(int empid, double salary, String name) {
+	public Employee(int empid, double salary, String name) 
+	{
 		super();
 		this.empid = empid;
 		this.salary = salary;
